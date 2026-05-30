@@ -1,0 +1,16 @@
+# arquivos compilados java
+*.class
+
+# configuraçoes do vs code
+.vscode/
+vscode
+
+# logs
+*.log  
+
+# arquivos temporarios
+*.tmp
+
+# sistema operacional
+.DS_Store
+Thumbs.db
