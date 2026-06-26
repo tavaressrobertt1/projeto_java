@@ -34,7 +34,9 @@ public class App {
                                         Escolha a opção desejada:
                                         1 - Adicionar um item da lista
                                         2 - Ver a sua lista
-                                        3 - Sair
+                                        3 - Remover um item da lista
+                                        4 - Alterar um item da lista
+                                        5 - Sair
                                         """);
                                     
                                 opcao = inUser.nextInt();
@@ -56,9 +58,13 @@ public class App {
                                     }
                                 }
 
+                                case 3 ->{
+                                    
+                                }
+
                                 }
                            
-                             }while(opcao !=3);                    
+                             }while(opcao !=5);                    
 
 
                             
